@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wael Mjaied</h1>
 <h3 align="center">💻 Software Engineering Student | 🛠️ Full-Stack & Cloud Enthusiast | 🌍 Tunisia</h3>
 
-
-
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-stack+Web+Developer;Clean+Code+Enthusiast;Always+Learning+Something+New&color=000080" alt="Typing SVG" />
 </p>
@@ -16,22 +11,18 @@
   <img src="https://komarev.com/ghpvc/?username=waelmjaied&label=Profile%20views&color=0e75b6&style=flat" alt="waelmjaied" />
 </p>
 
- <br>
-
+<br>
 
 <hr align="center" />
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-  🔭 I’m currently working on <strong>AI/ML projects at GHM Consulting<s/trong><br>
+  🔭 I’m currently working on <strong>AI/ML projects at GHM Consulting</strong><br>
   🌱 I’m currently learning <strong>Kubernetes, Spring Boot, ML and AI frameworks</strong><br>
   👯 I’m looking to collaborate on <strong>open-source projects or innovative tech solutions</strong><br>
-  📄 [My Resume](https://drive.google.com/file/d/1XJbkiWwHCfu2eJX39wfCgs8G8tqi7qY5/view)
-  ⚡ Fun fact <strong>I love powerlifting and gaming 🏋️🎮<s/trong>
-
-  👯 I’m looking to collaborate on <strong>open-source projects or innovative tech solutions</strong>
-  📫 How to reach me <strong>waelmjaied99@gmail.com</strong><br>
-
+  📄 <a href="https://drive.google.com/file/d/1XJbkiWwHCfu2eJX39wfCgs8G8tqi7qY5/view" target="_blank"><strong>My Resume</strong></a><br>
+  ⚡ Fun fact: <strong>I love powerlifting and gaming 🏋️🎮</strong><br>
+  📫 How to reach me: <strong>waelmjaied99@gmail.com</strong>
 </p>
 
 <hr align="center" />
@@ -47,7 +38,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <!-- Add more frontend tools as needed -->
 </p>
 
 <h3 align="center">Backend</h3>
@@ -57,7 +47,6 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <!-- Add more backend tools as needed -->
 </p>
 
 <h3 align="center">Databases</h3>
@@ -68,7 +57,6 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <!-- Add more databases as needed -->
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
@@ -77,7 +65,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <!-- Add more DevOps & Cloud tools as needed -->
 </p>
 
 <h3 align="center">Programming Languages</h3>
@@ -88,7 +75,6 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <!-- Add more programming languages as needed -->
 </p>
 
 <h3 align="center">Others</h3>
@@ -98,20 +84,18 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
-  <!-- Add more tools as needed -->
 </p>
 
 <hr align="center" />
 
 <h2 align="center">📌 Currently Working On</h2>
 <p align="center">
-  🛠️ AI/ML projects at **GHM Consulting**<br>
-  ✨ Focused on **Kubernetes, Spring Boot, ML and AI frameworks**
+  🛠️ AI/ML projects at <strong>GHM Consulting</strong><br>
+  ✨ Focused on <strong>Kubernetes, Spring Boot, ML and AI frameworks</strong>
 </p>
 
 <hr align="center" />
@@ -137,6 +121,5 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelmjaied&layout=compact&theme=tokyonight" />
 </p>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080,1E3A8A,0F52BA&height=110&section=footer" width="100%">

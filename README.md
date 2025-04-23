@@ -2,7 +2,7 @@
 <h3 align="center">💻 Software Engineering Student | 🛠️ Full-Stack & Cloud Enthusiast | 🌍 Tunisia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-stack+Web+Developer;Clean+Code+Enthusiast;Always+Learning+Something+New&color=000080" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-stack+Web+Developer;Clean+Code+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
   
 </p>
 

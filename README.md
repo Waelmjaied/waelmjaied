@@ -3,12 +3,14 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-stack+Web+Developer;Clean+Code+Enthusiast;Always+Learning+Something+New&color=000080" alt="Typing SVG" />
+  
 </p>
 
 <br>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=waelmjaied&label=Profile%20views&color=0e75b6&style=flat" alt="waelmjaied" />
+    <img src="https://komarev.com/ghpvc/?username=waelmjaied&color=000080&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+
 </p>
 
 <br>

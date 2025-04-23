@@ -23,12 +23,15 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-  🔭 I’m currently working on **AI/ML projects at GHM Consulting**<br>
-  🌱 I’m currently learning **Kubernetes, Spring Boot, ML and AI frameworks**<br>
-  👯 I’m looking to collaborate on **open-source projects or innovative tech solutions**<br>
-  📫 How to reach me **waelmjaied99@gmail.com**<br>
-  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1XJbkiWwHCfu2eJX39wfCgs8G8tqi7qY5/view)<br>
-  ⚡ Fun fact **I love powerlifting and gaming 🏋️🎮**
+  🔭 I’m currently working on <strong>AI/ML projects at GHM Consulting<s/trong><br>
+  🌱 I’m currently learning <strong>Kubernetes, Spring Boot, ML and AI frameworks</strong><br>
+  👯 I’m looking to collaborate on <strong>open-source projects or innovative tech solutions</strong><br>
+  📄 [My Resume](https://drive.google.com/file/d/1XJbkiWwHCfu2eJX39wfCgs8G8tqi7qY5/view)
+  ⚡ Fun fact <strong>I love powerlifting and gaming 🏋️🎮<s/trong>
+
+  👯 I’m looking to collaborate on <strong>open-source projects or innovative tech solutions</strong>
+  📫 How to reach me <strong>waelmjaied99@gmail.com</strong><br>
+
 </p>
 
 <hr align="center" />

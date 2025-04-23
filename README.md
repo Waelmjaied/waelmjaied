@@ -21,8 +21,9 @@
   🌱 I’m currently learning <strong>Kubernetes, Spring Boot, ML and AI frameworks</strong><br>
   👯 I’m looking to collaborate on <strong>open-source projects or innovative tech solutions</strong><br>
   📄 <a href="https://drive.google.com/file/d/1XJbkiWwHCfu2eJX39wfCgs8G8tqi7qY5/view" target="_blank"><strong>My Resume</strong></a><br>
-  ⚡ Fun fact: <strong>I love powerlifting and gaming 🏋️🎮</strong><br>
+  
   📫 How to reach me: <strong>waelmjaied99@gmail.com</strong>
+  ⚡ Fun fact: <strong>I love powerlifting and gaming 🏋️🎮</strong><br>
 </p>
 
 <hr align="center" />

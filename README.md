@@ -98,17 +98,7 @@
   ✨ Focused on <strong>Kubernetes, Spring Boot, ML and AI frameworks</strong>
 </p>
 
-<hr align="center" />
 
-<h2 align="center">📫 Connect with me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/mjaied-wael-b2b591340" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mjaied-wael-linkedin" height="30" width="40" />
-  </a>
-  <a href="mailto:waelmjaied99@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-  </a>
-</p>
 
 <hr align="center" />
 
@@ -121,5 +111,23 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelmjaied&layout=compact&theme=tokyonight" />
 </p>
+
+<hr align="center" />
+
+<h2 align="center">📫 Connect with me</h2>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/mjaied-wael-b2b591340" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=silinkedin&subtitle=LinkedIn&size=square" alt="LinkedIn" style="margin: 10px;">
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:waelmjaied99@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=waelmjaied99@gmail.com&size=square" alt="Email" style="margin: 10px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080,1E3A8A,0F52BA&height=110&section=footer" width="100%">
